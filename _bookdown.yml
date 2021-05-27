@@ -1,0 +1,28 @@
+output_dir: "docs"
+
+rmd_files: [
+  "index.rmd",
+  "preface.rmd",
+  
+  "dice.rmd",
+  "basics.rmd",
+  "packages.rmd",
+  
+  "cards.rmd",
+  "objects.rmd",
+  "notation.rmd",
+  "modifying.rmd",
+  "environments.rmd",
+  
+  "slots.rmd",
+  "programs.rmd",
+  "s3.rmd",
+  "loops.rmd",
+  "speed.rmd",
+  
+  "a1-starting.rmd",
+  "a2-packages.rmd",
+  "a3-updating.rmd",
+  "a4-data.rmd",
+  "a5-debug.rmd"
+]
